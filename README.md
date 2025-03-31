@@ -1,15 +1,11 @@
-[![MasterHead](banner.png)](https://rishavchanda.io)
-
-<h1 align="center">Hi 👋, I'm Swarnadip Sen</h1>
+<h1 align="center">Hello, I'm Swarnadip Sen</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnadipsen&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadipsen" /> </p> -->
 
 <img align="right" alt="Coding" width="250" height="200" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I worked on **E-commerce** projects
 
-- 🌱 I’m currently learning **React | Nodejs**
-
-- 💬 Ask me anything about **Django | Discord API**
+- 💬 I have experience working with **Django | Discord API**
 
 - 📫 How to reach me **swarnadip.sen.india@gmail.com**
 
