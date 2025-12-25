@@ -1,12 +1,12 @@
-# 💫 About Me:
+#  About Me:
 I’m a full-stack developer with strong hands-on experience in Django and React, focused on building practical systems like e-commerce platforms, inventory management solutions, and real-time applications. I enjoy working close to backend logic, data flow, and system reliability, while keeping the frontend clean and user-friendly. Most of my projects are driven by real business use-cases rather than demos or tutorials.
 <br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnadipsen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swarnadipsen__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swarnadip.sen.india@gmail.com) 
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -39,7 +39,15 @@ I’m a full-stack developer with strong hands-on experience in Django and React
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SwarnadipSen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://stats-github-readme.vercel.app/api/top-langs/?username=SwarnadipSen&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=SwarnadipSen&show_icons=true&hide_border=true&theme=dark)
+
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SwarnadipSen&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+
+![]([https://github-contributor-stats.vercel.app/api?username=SwarnadipSen&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github-readme-stats-sigma-five.vercel.app/api?username=SwarnadipSen&show_icons=true&hide_border=true&theme=dark))
+
+
